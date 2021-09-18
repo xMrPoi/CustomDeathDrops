@@ -1,0 +1,7 @@
+name: CustomDeathDrops
+author: xMrPoi
+version: 1.1
+main: me.xMrPoi.CustomDeathDrops.Main
+commands:
+  customdeathdrops:
+    description: Reloads the plugin!
